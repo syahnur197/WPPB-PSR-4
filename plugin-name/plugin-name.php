@@ -26,6 +26,9 @@
 
 namespace PluginName;
 
+use PluginName\Utils\Activator;
+use PluginName\Utils\Deactivator;
+
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
 	die;
@@ -39,7 +42,7 @@ require_once plugin_dir_path( __FILE__ ) . 'vendor/autoload.php';
  * This action is documented in includes/class-plugin-name-activator.php
  */
 function activate_plugin_name() {
-	utils\Activator::activate();
+	Activator::activate();
 }
 
 /**
@@ -47,7 +50,7 @@ function activate_plugin_name() {
  * This action is documented in includes/class-plugin-name-deactivator.php
  */
 function deactivate_plugin_name() {
-	utils\Deactivator::deactivate();
+	Deactivator::deactivate();
 }
 
 register_activation_hook( __FILE__, '\PluginName\activate_plugin_name' );

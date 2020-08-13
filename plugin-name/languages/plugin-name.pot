@@ -77,7 +77,7 @@ msgstr ""
 #: includes/admin/views/settings-page.php:105
 #: includes/admin/woocommerce/views/product-summary-alt-exp-edition-page.php:264
 #: includes/admin/woocommerce/views/product-summary-alt-exp-edition-page.php:296
-#: includes/utils/admin-table.php:300
+#: includes/Utils/admin-table.php:300
 msgid "Cancel"
 msgstr ""
 
@@ -219,7 +219,7 @@ msgstr ""
 
 #: includes/admin/alternatives/alt-exp-super-controller.php:71
 #: includes/admin/others/heatmap-exp-edition-page-controller.php:157
-#: includes/utils/admin-page.php:393
+#: includes/Utils/admin-page.php:393
 msgid "The following errors have been encountered:"
 msgstr ""
 
@@ -1028,7 +1028,7 @@ msgstr ""
 #: includes/admin/views/alternatives/theme-alt-exp-edition-page.php:58
 #: includes/admin/views/alternatives/widget-alt-exp-edition-page.php:57
 #: includes/admin/woocommerce/views/product-summary-alt-exp-edition-page.php:59
-#: includes/utils/admin-table.php:316
+#: includes/Utils/admin-table.php:316
 msgid "Save"
 msgstr ""
 
@@ -1581,7 +1581,7 @@ msgid "Select a page or post for preview"
 msgstr ""
 
 #: includes/admin/views/content/heatmaps.php:83
-#: includes/utils/admin-ajax-page.php:269
+#: includes/Utils/admin-ajax-page.php:269
 msgid "Funny image to graphically notify of an error."
 msgstr ""
 
@@ -2691,7 +2691,7 @@ msgid "Not available"
 msgstr ""
 
 #: includes/admin/views/progress/alt-exp-progress-page.php:1334
-#: includes/utils/html-generator.php:120
+#: includes/Utils/html-generator.php:120
 msgid "Duration"
 msgstr ""
 
@@ -2701,37 +2701,37 @@ msgid "The experiment can only be stopped manually"
 msgstr ""
 
 #: includes/admin/views/progress/alt-exp-progress-page.php:1352
-#: includes/utils/html-generator.php:152
+#: includes/Utils/html-generator.php:152
 msgid "24 hours"
 msgstr ""
 
 #: includes/admin/views/progress/alt-exp-progress-page.php:1354
-#: includes/utils/html-generator.php:153
+#: includes/Utils/html-generator.php:153
 msgid "48 hours"
 msgstr ""
 
 #: includes/admin/views/progress/alt-exp-progress-page.php:1357
-#: includes/utils/html-generator.php:154
+#: includes/Utils/html-generator.php:154
 msgid "5 days"
 msgstr ""
 
 #: includes/admin/views/progress/alt-exp-progress-page.php:1360
-#: includes/utils/html-generator.php:155
+#: includes/Utils/html-generator.php:155
 msgid "1 week"
 msgstr ""
 
 #: includes/admin/views/progress/alt-exp-progress-page.php:1363
-#: includes/utils/html-generator.php:156
+#: includes/Utils/html-generator.php:156
 msgid "2 weeks"
 msgstr ""
 
 #: includes/admin/views/progress/alt-exp-progress-page.php:1366
-#: includes/utils/formatter.php:116 includes/utils/html-generator.php:157
+#: includes/Utils/formatter.php:116 includes/Utils/html-generator.php:157
 msgid "1 month"
 msgstr ""
 
 #: includes/admin/views/progress/alt-exp-progress-page.php:1369
-#: includes/utils/html-generator.php:158
+#: includes/Utils/html-generator.php:158
 msgid "2 months"
 msgstr ""
 
@@ -4041,27 +4041,27 @@ msgid ""
 "experiment named «%s» before starting the new one."
 msgstr ""
 
-#: includes/utils/admin-ajax-page.php:165
+#: includes/Utils/admin-ajax-page.php:165
 msgid "Loading..."
 msgstr ""
 
-#: includes/utils/admin-ajax-page.php:166
+#: includes/Utils/admin-ajax-page.php:166
 msgid "Please, wait a moment."
 msgstr ""
 
-#: includes/utils/admin-ajax-page.php:167
+#: includes/Utils/admin-ajax-page.php:167
 msgid "Keep waiting..."
 msgstr ""
 
-#: includes/utils/admin-ajax-page.php:168
+#: includes/Utils/admin-ajax-page.php:168
 msgid "Internet connection seems very slow."
 msgstr ""
 
-#: includes/utils/admin-ajax-page.php:272
+#: includes/Utils/admin-ajax-page.php:272
 msgid "Oops! There was an AJAX-related error."
 msgstr ""
 
-#: includes/utils/admin-page.php:100
+#: includes/Utils/admin-page.php:100
 msgid ""
 "<b><a href=\"%s\">Upgrade to our Professional Plan</a></b> and get the most "
 "out of Nelio A/B Testing. Track <b>more visitors</b>, use the service on "
@@ -4070,182 +4070,182 @@ msgid ""
 "dismissUpgradeNotice();\">Dismiss</a></small>"
 msgstr ""
 
-#: includes/utils/admin-page.php:512
+#: includes/Utils/admin-page.php:512
 msgid ""
 "This option is only available for users subscribed to our Professional Plan."
 msgstr ""
 
-#: includes/utils/admin-page.php:515
+#: includes/Utils/admin-page.php:515
 msgid ""
 "This option is only available for users subscribed to our Enterprise Plan."
 msgstr ""
 
-#: includes/utils/admin-table.php:103
+#: includes/Utils/admin-table.php:103
 msgid "Error displaying column `%s'."
 msgstr ""
 
-#: includes/utils/backend.php:594
+#: includes/Utils/backend.php:594
 msgid "Invalid product registration number."
 msgstr ""
 
-#: includes/utils/backend.php:596
+#: includes/Utils/backend.php:596
 msgid "Invalid site."
 msgstr ""
 
-#: includes/utils/backend.php:598
+#: includes/Utils/backend.php:598
 msgid "This site is not active."
 msgstr ""
 
-#: includes/utils/backend.php:600
+#: includes/Utils/backend.php:600
 msgid "This account has reached the maximum allowed number of active sites."
 msgstr ""
 
-#: includes/utils/backend.php:602
+#: includes/Utils/backend.php:602
 msgid "There is no more quota available."
 msgstr ""
 
-#: includes/utils/backend.php:604
+#: includes/Utils/backend.php:604
 msgid "Subscription has not been paid yet."
 msgstr ""
 
-#: includes/utils/backend.php:606
+#: includes/Utils/backend.php:606
 msgid "Invalid e-mail."
 msgstr ""
 
-#: includes/utils/backend.php:608
+#: includes/Utils/backend.php:608
 msgid "This e-mail is already registered."
 msgstr ""
 
-#: includes/utils/backend.php:610
+#: includes/Utils/backend.php:610
 msgid "Too few parameters."
 msgstr ""
 
-#: includes/utils/backend.php:612
+#: includes/Utils/backend.php:612
 msgid "The URL of the site is invalid."
 msgstr ""
 
-#: includes/utils/backend.php:614
+#: includes/Utils/backend.php:614
 msgid "Invalid parameters."
 msgstr ""
 
-#: includes/utils/backend.php:616
+#: includes/Utils/backend.php:616
 msgid "Invalid experiment."
 msgstr ""
 
-#: includes/utils/backend.php:618
+#: includes/Utils/backend.php:618
 msgid "Invalid alternative."
 msgstr ""
 
-#: includes/utils/backend.php:620
+#: includes/Utils/backend.php:620
 msgid "Results for this experiment are not yet available."
 msgstr ""
 
-#: includes/utils/backend.php:622
+#: includes/Utils/backend.php:622
 msgid "User account has been deactivated."
 msgstr ""
 
-#: includes/utils/backend.php:624
+#: includes/Utils/backend.php:624
 msgid "Experiment not found."
 msgstr ""
 
-#: includes/utils/backend.php:626
+#: includes/Utils/backend.php:626
 msgid "Go to my list of experiments..."
 msgstr ""
 
-#: includes/utils/backend.php:629
+#: includes/Utils/backend.php:629
 msgid "Goal not found."
 msgstr ""
 
-#: includes/utils/backend.php:631
+#: includes/Utils/backend.php:631
 msgid "The experiment cannot be modified."
 msgstr ""
 
-#: includes/utils/backend.php:633
+#: includes/Utils/backend.php:633
 msgid "The experiment is not running."
 msgstr ""
 
-#: includes/utils/backend.php:635
+#: includes/Utils/backend.php:635
 msgid "The feature you are trying to use is not available."
 msgstr ""
 
-#: includes/utils/backend.php:637
+#: includes/Utils/backend.php:637
 msgid "The experiment cannot be scheduled for the given date."
 msgstr ""
 
-#: includes/utils/backend.php:639
+#: includes/Utils/backend.php:639
 msgid "The experiment cannot be duplicated."
 msgstr ""
 
-#: includes/utils/backend.php:641
+#: includes/Utils/backend.php:641
 msgid ""
 "The experiment cannot be started: missing information (for instance, an "
 "alternative or a set of actions in a goal)."
 msgstr ""
 
-#: includes/utils/backend.php:648
+#: includes/Utils/backend.php:648
 msgid ""
 "Oops! The experiment cannot be started because it defines more than one goal "
 "page. Please, modify your experiment so that it includes one goal page only "
 "or <a href=\"%s\">upgrade your Nelio A/B Testing subscription package</a>."
 msgstr ""
 
-#: includes/utils/backend.php:653
+#: includes/Utils/backend.php:653
 msgid ""
 "Oops! Your current subscription plan does not permit you to use Heatmap "
 "Experiments. Please, consider <a href=\"%s\">upgrading your Nelio A/B "
 "subscription package</a>."
 msgstr ""
 
-#: includes/utils/backend.php:660
+#: includes/Utils/backend.php:660
 msgid "Backend is not available."
 msgstr ""
 
-#: includes/utils/backend.php:662
+#: includes/Utils/backend.php:662
 msgid "No site has been configured."
 msgstr ""
 
-#: includes/utils/backend.php:664
+#: includes/Utils/backend.php:664
 msgid "Error 404 when accessing an endpoint."
 msgstr ""
 
-#: includes/utils/backend.php:666
+#: includes/Utils/backend.php:666
 msgid "Terms and conditions are not accepted."
 msgstr ""
 
-#: includes/utils/backend.php:668
+#: includes/Utils/backend.php:668
 msgid ""
 "Backend is not accessible.<br />Please, try again in just a few moments."
 msgstr ""
 
-#: includes/utils/backend.php:670
+#: includes/Utils/backend.php:670
 msgid ""
 "Be patient... We are still collecting the data for your heatmaps and "
 "clickmaps."
 msgstr ""
 
-#: includes/utils/backend.php:672
+#: includes/Utils/backend.php:672
 msgid ""
 "We did not collect enough data for building your heatmaps and clickmaps. "
 "Sorry."
 msgstr ""
 
-#: includes/utils/backend.php:674
+#: includes/Utils/backend.php:674
 msgid "An unknown error has occurred."
 msgstr ""
 
-#: includes/utils/backend.php:676
+#: includes/Utils/backend.php:676
 msgid "Experiment cannot be started."
 msgstr ""
 
-#: includes/utils/backend.php:678
+#: includes/Utils/backend.php:678
 msgid "Invalid «_nonce». Are you sure you want to do this?"
 msgstr ""
 
-#: includes/utils/backend.php:681
+#: includes/Utils/backend.php:681
 msgid "An unknown error occurred while accessing the backend."
 msgstr ""
 
-#: includes/utils/essentials.php:244
+#: includes/Utils/essentials.php:244
 msgid ""
 "You've recently upgraded to <strong>Nelio A/B Testing %s</strong>. "
 "<strong>If you're running a cache system</strong> (such as <em>W3 Total "
@@ -4255,162 +4255,162 @@ msgid ""
 "may not work properly."
 msgstr ""
 
-#: includes/utils/essentials.php:251
+#: includes/Utils/essentials.php:251
 msgid "Dismiss"
 msgstr ""
 
-#: includes/utils/formatter.php:120
+#: includes/Utils/formatter.php:120
 msgid "and 1 day"
 msgid_plural "and %d days"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/utils/formatter.php:125
+#: includes/Utils/formatter.php:125
 msgid "1 day"
 msgid_plural "%d days"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/utils/formatter.php:129
+#: includes/Utils/formatter.php:129
 msgid "and 1 hour"
 msgid_plural "and %d hours"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/utils/formatter.php:135
+#: includes/Utils/formatter.php:135
 msgid "1 hour"
 msgid_plural "%d hours"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/utils/formatter.php:137
+#: includes/Utils/formatter.php:137
 msgid "Less than 1 hour"
 msgstr ""
 
-#: includes/utils/html-generator.php:112
+#: includes/Utils/html-generator.php:112
 msgid "Manual"
 msgstr ""
 
-#: includes/utils/html-generator.php:128
+#: includes/Utils/html-generator.php:128
 msgid "Number of Page Views"
 msgstr ""
 
-#: includes/utils/html-generator.php:136
+#: includes/Utils/html-generator.php:136
 msgid "Winning Alternative Reaches a Minimum Confidence"
 msgstr ""
 
-#: includes/utils/html-generator.php:145
+#: includes/Utils/html-generator.php:145
 msgid "The experiment will be running until you manually stop it."
 msgstr ""
 
-#: includes/utils/html-generator.php:148 includes/utils/html-generator.php:163
-#: includes/utils/html-generator.php:205
+#: includes/Utils/html-generator.php:148 includes/Utils/html-generator.php:163
+#: includes/Utils/html-generator.php:205
 msgid "Mode Configuration"
 msgstr ""
 
-#: includes/utils/html-generator.php:150
+#: includes/Utils/html-generator.php:150
 msgid ""
 "The experiment will be runnning for %s and will then be automatically "
 "stopped."
 msgstr ""
 
-#: includes/utils/html-generator.php:165
+#: includes/Utils/html-generator.php:165
 msgid ""
 "If the tested page (and its alternatives) have been seen over %s times, the "
 "experiment will be automatically stopped."
 msgstr ""
 
-#: includes/utils/html-generator.php:186
+#: includes/Utils/html-generator.php:186
 msgid ""
 "According to your global settings, there's a Quota Limit of %s page views "
 "per experiment. For this experiment, however, the global setting will be "
 "overriden."
 msgstr ""
 
-#: includes/utils/html-generator.php:207
+#: includes/Utils/html-generator.php:207
 msgid "%s the experiment will be automatically stopped."
 msgstr ""
 
-#: includes/utils/html-generator.php:209
+#: includes/Utils/html-generator.php:209
 msgid "99% - If we are absolutely confident there's a clear winner"
 msgstr ""
 
-#: includes/utils/html-generator.php:210
+#: includes/Utils/html-generator.php:210
 msgid "98% - If we are extremely confident there's a clear winner"
 msgstr ""
 
-#: includes/utils/html-generator.php:211
+#: includes/Utils/html-generator.php:211
 msgid "97% - If we are quite confident there's a winner"
 msgstr ""
 
-#: includes/utils/html-generator.php:212
+#: includes/Utils/html-generator.php:212
 msgid "96% - If we are confident there's a winner"
 msgstr ""
 
-#: includes/utils/html-generator.php:213
+#: includes/Utils/html-generator.php:213
 msgid "95% - If we are slightly confident there's a winner"
 msgstr ""
 
-#: includes/utils/html-generator.php:214
+#: includes/Utils/html-generator.php:214
 msgid "90% - If it is possible that there's a winner"
 msgstr ""
 
-#: includes/utils/html-generator.php:300
+#: includes/Utils/html-generator.php:300
 msgid "Month"
 msgstr ""
 
-#: includes/utils/html-generator.php:308 includes/utils/html-generator.php:310
+#: includes/Utils/html-generator.php:308 includes/Utils/html-generator.php:310
 msgid "Day"
 msgstr ""
 
-#: includes/utils/html-generator.php:312 includes/utils/html-generator.php:314
+#: includes/Utils/html-generator.php:312 includes/Utils/html-generator.php:314
 msgid "Year"
 msgstr ""
 
-#: includes/utils/html-generator.php:321
+#: includes/Utils/html-generator.php:321
 msgid "%1$s %2$s, %3$s"
 msgstr ""
 
-#: includes/utils/html-generator.php:361
+#: includes/Utils/html-generator.php:361
 msgid "The changes you made will be lost if you navigate away from this page."
 msgstr ""
 
-#: includes/utils/html-generator.php:644
+#: includes/Utils/html-generator.php:644
 msgid "Select an option..."
 msgstr ""
 
-#: includes/utils/html-generator.php:648
+#: includes/Utils/html-generator.php:648
 msgid "Select a page..."
 msgstr ""
 
-#: includes/utils/html-generator.php:651
+#: includes/Utils/html-generator.php:651
 msgid "Select a post..."
 msgstr ""
 
-#: includes/utils/html-generator.php:654
+#: includes/Utils/html-generator.php:654
 msgid "Select a form..."
 msgstr ""
 
-#: includes/utils/html-generator.php:658
+#: includes/Utils/html-generator.php:658
 msgid "Select a page, post, or custom element..."
 msgstr ""
 
-#: includes/utils/html-generator.php:664
+#: includes/Utils/html-generator.php:664
 msgid "Select a page or post..."
 msgstr ""
 
-#: includes/utils/wp-helper.php:329 includes/utils/wp-helper.php:509
+#: includes/Utils/wp-helper.php:329 includes/Utils/wp-helper.php:509
 msgid "No featured image available"
 msgstr ""
 
-#: includes/utils/wp-helper.php:364
+#: includes/Utils/wp-helper.php:364
 msgid "Your latest posts"
 msgstr ""
 
-#: includes/utils/wp-helper.php:381
+#: includes/Utils/wp-helper.php:381
 msgid "Landing Page (Theme-based)"
 msgstr ""
 
-#: includes/utils/wp-helper.php:614
+#: includes/Utils/wp-helper.php:614
 msgid "(no title)"
 msgstr ""

@@ -7,7 +7,7 @@
  * @since      1.0.0
  */
 
-namespace PluginName\front;
+namespace PluginName\Front;
 
 
 /**

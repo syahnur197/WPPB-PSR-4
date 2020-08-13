@@ -7,7 +7,7 @@
  * @since      1.0.0
  */
 
-namespace PluginName\admin;
+namespace PluginName\Admin;
 
 /**
  * The admin-specific functionality of the plugin.
